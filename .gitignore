@@ -7,3 +7,4 @@ minimp3_arm
 *.gcno
 *.gcov
 minimp3.vcxproj
+*.user
